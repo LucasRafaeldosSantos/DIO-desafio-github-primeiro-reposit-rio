@@ -1,0 +1,23 @@
+INICIA JOGO
+Pinguim Jr. Vermelho sobe no gelo
+Pinguim Vermelho sobe no gelo
+Atravessa
+Pinguim Vermelho desce do gelo
+Atravessa
+Pinguim Verde Jr. sobe no gelo
+Atravessa
+Pinguim Vermelho Jr. desce do gelo
+Atravessa
+Pinguim Verde sobe no gelo
+Atravessa
+Pinguim Verde desce do gelo
+Atravessa
+Pinguim Azul Jr. sobe no gelo
+Atravessa
+Pinguim Verde Jr. desce do gelo
+Atravessa
+Pinguim Azul sobe no gelo
+Atravessa
+Pinguim Azul desce do gelo
+Pinguim Azul Jr desce do gelo
+FIM DE JOGO!

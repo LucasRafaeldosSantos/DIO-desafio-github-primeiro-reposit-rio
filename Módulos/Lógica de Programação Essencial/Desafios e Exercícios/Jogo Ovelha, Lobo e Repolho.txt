@@ -1,0 +1,19 @@
+INICIA JOGO
+Ovelha entra no barco
+Atravessa rio
+Ovelha sai do barco
+Atravessa rio
+Lobo entra no barco
+Atravessa rio
+Lobo sai do barco
+Ovelha entra no barco
+Atravessa rio
+Ovelha sai do barco
+Repolho entra no barco
+Atravessa rio
+Repolho sai do barco
+Atravessa rio
+Ovelha entra no barco 
+Atravessa rio
+Ovelha sai do barco
+FIM DE JOGO!

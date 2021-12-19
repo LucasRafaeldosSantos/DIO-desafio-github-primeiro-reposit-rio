@@ -1,0 +1,13 @@
+INICIA DIA
+Acorda
+Verifica celular
+Levanta da cama
+Escova os dentes
+Toma café
+Inicia Estudo
+Termina estudo
+Toma café da tarde
+Joga/assiste vídeos
+Deita na cama
+Dorme
+FIM DO DIA!
